@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'nyxc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_390903AD4BE942B49A33922582B7DEC4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43F7DA57D3414030AD4EDEDD30EADD9E }}
           package: .
